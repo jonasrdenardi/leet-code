@@ -1,5 +1,4 @@
 ﻿using _130_CloneGraph;
-using System.Text.Json;
 
 var node1 = new Node(1);
 var node2 = new Node(2);
@@ -21,6 +20,7 @@ node4.neighbors.Add(node3);
 
 var clone1 = BFS(node1);
 
+// DFS (Depth-First Search - Busca em Profundidade)
 Node DFS(Node node)
 {
     if (node == null)
@@ -51,6 +51,7 @@ Node DFS(Node node)
     return Clone(node);
 }
 
+// BFS (Breadth-First Search - Busca em Largura)
 Node BFS(Node node)
 {
     if (node == null)
