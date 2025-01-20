@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_121_BestTimeToBuyAndSellSt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_130_CloneGraph", "_130_CloneGraph\_130_CloneGraph.csproj", "{B7427D85-80CE-4FA5-A9A3-45889C80F81C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_238_ProductOfArrayExceptSelf", "_238_ProductOfArrayExceptSelf\_238_ProductOfArrayExceptSelf.csproj", "{CCAED54C-34A4-4AC3-BDF0-91B95BCC2931}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B7427D85-80CE-4FA5-A9A3-45889C80F81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7427D85-80CE-4FA5-A9A3-45889C80F81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7427D85-80CE-4FA5-A9A3-45889C80F81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCAED54C-34A4-4AC3-BDF0-91B95BCC2931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAED54C-34A4-4AC3-BDF0-91B95BCC2931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAED54C-34A4-4AC3-BDF0-91B95BCC2931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAED54C-34A4-4AC3-BDF0-91B95BCC2931}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
